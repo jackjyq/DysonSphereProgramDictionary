@@ -1,1 +1,1 @@
-数据来源[factoriolab](https://github.com/factoriolab/factoriolab)，更偏向于物品与科技
+数据来自 [factoriolab](https://github.com/factoriolab/factoriolab)，主要包括组件、建筑与科技。
